@@ -1,0 +1,4 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Energy, Infrastructure, City}{3}{0}{1}
+\beamer@sectionintoc {2}{Mathematical modelling, optimisation, case study}{11}{0}{2}
+\beamer@sectionintoc {3}{Sustainable model use}{45}{0}{3}
